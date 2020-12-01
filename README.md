@@ -56,4 +56,22 @@ The module will consists of:
   - TensorFlow Assignment
   - Capstone Project
 
+You are expected to read through the notes and the slidedeck before starting the assignments. The notes will indicate when you can take a certain assignments.
+At the end, you will be able to test whether you retained enough information to be at passing level through taking the quiz.
+
 ## File Structure
+
+- `placeholder.pdf` : Slides
+- `placeholder.pdf` : Notes
+- **Assignments**
+  - 1: `assignment1.ipynb` Introduction to both
+  - 2a: `assignment2a.ipynb` PyTorch
+  - 2b: `assignment2b.ipynb` TensorFlow
+  - 3: `assignment3.ipynb` Final Project
+  - Q: `final_quiz.pdf` Quizz
+- **Solutions**
+  - 1: `assignment1_SOL.ipynb` Introduction to both (Solution)
+  - 2a: `assignment2a_SOL.ipynb` PyTorch (Solution)
+  - 2b: `assignment2b_SOL.ipynb` TensorFlow (Solution)
+  - 3: `assignment3_STAFF.ipynb` Final Project (Staff Master)
+  - Q: `final_quiz_sol.pdf` Quizz
