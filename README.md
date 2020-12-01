@@ -37,13 +37,13 @@ For this module, we will be both working with **DataHub/Jupyter Notebook**. Plea
 After this module you should:
 
 - be able to feel the differences between the two libraries.
-- be able to load and augment data.[^1]
+- be able to load and augment data.<sup>1</sup>
 - be able to start from scratch to train a neural network and train a pre-trained model using any of the two libraries.
 - be able to effectively debug and read through documentation.
 
 As part of our curriculum, we will also be including ethics questions throughout the assignments.
 
-[^1] : Since there is no other group covering the data loading and data augmentation, we will be covering it shortly.
+<sup>1</sup> : Since there is no other group covering the data loading and data augmentation, we will be covering it shortly.
 
 ## Module Structure
 
