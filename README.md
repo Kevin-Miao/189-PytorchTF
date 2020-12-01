@@ -1,4 +1,4 @@
-# 189-PytorchTF
+# Week 8: Using TensorFlow and Pytorch
 
 Welcome to the assignment for `Pytorch/TensorFlow Tutorial` in EE16ML.
 This repository and the contained files have been created by team **DSS**, consisting of Amanda Ma, Kevin Miao, Sandeep Sainath and Youngli Hong.
