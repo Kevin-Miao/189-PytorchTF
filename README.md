@@ -36,10 +36,17 @@ For this module, we will be both working with **DataHub/Jupyter Notebook**. Plea
 
 After this module you should:
 
-- be able to feel the differences between the two libraries.
+- be able to get an intuition of the differences between the two libraries.
+- be able to transition between programming, math and theory.
 - be able to load and augment data.<sup>1</sup>
-- be able to start from scratch to train a neural network and train a pre-trained model using any of the two libraries.
+- be able to independently use any of the libraries to implement neural models.
 - be able to effectively debug and read through documentation.
+
+We will also be covering:
+
+- connecting assignment to industry
+- ethical considerations
+- show how small perturbations mess up your accuracy
 
 As part of our curriculum, we will also be including ethics questions throughout the assignments.
 
@@ -52,8 +59,7 @@ The module will consists of:
 - lecture notes
 - assignments
   - Introduction to PyTorch and TF
-  - PyTorch Assignment
-  - TensorFlow Assignment
+  - PyTorch/TensorFlow Assignment
   - Capstone Project
 
 You are expected to read through the notes and the slide deck before starting the assignments. The notes will indicate when you can take a certain assignments.
@@ -64,14 +70,10 @@ At the end, you will be able to test whether you retained enough information to 
 - `placeholder.pdf` : Slides
 - `placeholder.pdf` : Notes
 - **Assignments**
-  - 1: `assignment1.ipynb` Introduction to both
-  - 2a: `assignment2a.ipynb` PyTorch
-  - 2b: `assignment2b.ipynb` TensorFlow
-  - 3: `assignment3.ipynb` Final Project
+  - 1a: `assignment1b.ipynb` Introduction to TensorFlow
+  - 1b: `assignment1a.ipynb` Introduction to PyTorch
+  - 2a: `assignment2a.ipynb` Fun with debugging and toy models: TensorFlow
+  - 2b: `assignment2b.ipynb` Fun with debugging and toy models: PyTorch
+  - 3: `assignment3.ipynb` Capstone Project: Fracture Classification
   - Q: `final_quiz.pdf` Quiz
-- **Solutions**
-  - 1: `assignment1_SOL.ipynb` Introduction to both (Solution)
-  - 2a: `assignment2a_SOL.ipynb` PyTorch (Solution)
-  - 2b: `assignment2b_SOL.ipynb` TensorFlow (Solution)
-  - 3: `assignment3_STAFF.ipynb` Final Project (Staff Master)
-  - Q: `final_quiz_sol.pdf` Quiz
+- **Solutions** have been appended with a `_SOL`
