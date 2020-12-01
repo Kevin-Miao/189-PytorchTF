@@ -1,9 +1,9 @@
-# Week 8: Using TensorFlow and Pytorch
+# Week 8: Using TensorFlow and PyTorch
 
-Welcome to the assignment for `Pytorch/TensorFlow Tutorial` in EE16ML.
+Welcome to the assignment for `PyTorch/TensorFlow Tutorial` in EE16ML.
 This repository and the contained files have been created by team **DSS**, consisting of Amanda Ma, Kevin Miao, Sandeep Sainath and Youngli Hong.
 
-## Pre-Requisites
+## Pre-requisites
 
 Before you start this assignment, we assume the following pre-requisite knowledge:
 
@@ -23,7 +23,7 @@ Specifically, we assume that you have completed the following modules and their 
 ## Environment Set Up
 
 For this module, we will be both working with **DataHub/Jupyter Notebook**. Please refer to [this link](https://jupyter.org/install) to get more information on how to run **Jupyter** locally.
-**Additionally**, we will also be using **Google Colab** to use GPUs to train our models. If you are using [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true), make sure to log in on with your bMail and follow the prompts until you see an orange window containing a 'Welcome to Colab' notebook. The use should be pretty intuitive and similar to JupyterNotebook.
+**Additionally**, we will also be using **Google Colab** to use GPUs to train our models. If you are using [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true), make sure to log in on with your bMail and follow the prompts until you see an orange window containing a 'Welcome to Colab' notebook. The use should be pretty intuitive and similar to Jupyter Notebook.
 
 ### Running GPU (Google Colab)
 
@@ -56,7 +56,7 @@ The module will consists of:
   - TensorFlow Assignment
   - Capstone Project
 
-You are expected to read through the notes and the slidedeck before starting the assignments. The notes will indicate when you can take a certain assignments.
+You are expected to read through the notes and the slide deck before starting the assignments. The notes will indicate when you can take a certain assignments.
 At the end, you will be able to test whether you retained enough information to be at passing level through taking the quiz.
 
 ## File Structure
@@ -68,10 +68,10 @@ At the end, you will be able to test whether you retained enough information to 
   - 2a: `assignment2a.ipynb` PyTorch
   - 2b: `assignment2b.ipynb` TensorFlow
   - 3: `assignment3.ipynb` Final Project
-  - Q: `final_quiz.pdf` Quizz
+  - Q: `final_quiz.pdf` Quiz
 - **Solutions**
   - 1: `assignment1_SOL.ipynb` Introduction to both (Solution)
   - 2a: `assignment2a_SOL.ipynb` PyTorch (Solution)
   - 2b: `assignment2b_SOL.ipynb` TensorFlow (Solution)
   - 3: `assignment3_STAFF.ipynb` Final Project (Staff Master)
-  - Q: `final_quiz_sol.pdf` Quizz
+  - Q: `final_quiz_sol.pdf` Quiz
