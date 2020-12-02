@@ -67,8 +67,8 @@ At the end, you will be able to test whether you retained enough information to 
 
 ## File Structure
 
-- `placeholder.pdf` : Slides
-- `placeholder.pdf` : Notes
+- `slides35.pdf` : Slides
+- `notes35.pdf` : Notes
 - **Assignments**
   - Assignment 1
     - 1a: `assignment1b.ipynb` Introduction to TensorFlow
