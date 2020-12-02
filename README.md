@@ -36,11 +36,13 @@ For this module, we will be both working with **DataHub/Jupyter Notebook**. Plea
 
 After this module you should:
 
-- be able to get an intuition of the differences between the two libraries.
-- be able to transition between programming, math and theory.
-- be able to load and augment data.<sup>1</sup>
-- be able to independently use any of the libraries to implement neural models.
-- be able to effectively debug and read through documentation.
+1. get an intuition of the differences between the two libraries.
+2. transition between programming, math and theory, specifically, the different
+optimizations and gradients.
+3. load and augment data.
+4. independently use any of the libraries to implement neural models of choice.
+5. be able to effectively debug and read through documentation.
+6. get some sense of residual nets are implemented on a basic level.
 
 We will also be covering:
 
