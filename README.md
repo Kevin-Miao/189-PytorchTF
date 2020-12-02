@@ -70,10 +70,12 @@ At the end, you will be able to test whether you retained enough information to 
 - `placeholder.pdf` : Slides
 - `placeholder.pdf` : Notes
 - **Assignments**
-  - 1a: `assignment1b.ipynb` Introduction to TensorFlow
-  - 1b: `assignment1a.ipynb` Introduction to PyTorch
-  - 2a: `assignment2a.ipynb` Fun with debugging and toy models: TensorFlow
-  - 2b: `assignment2b.ipynb` Fun with debugging and toy models: PyTorch
-  - 3: `assignment3.ipynb` Capstone Project: Fracture Classification
+  - Assignment 1
+    - 1a: `assignment1b.ipynb` Introduction to TensorFlow
+    - 1b: `assignment1a.ipynb` Introduction to PyTorch
+  - Assignment 2
+    - 2a: `assignment2a.ipynb` Fun with debugging and toy models: TensorFlow
+    - 2b: `assignment2b.ipynb` Fun with debugging and toy models: PyTorch
+  - 3: `Final_Project` Capstone Project: Fracture Classification
   - Q: `final_quiz.pdf` Quiz
 - **Solutions** have been appended with a `_SOL`
